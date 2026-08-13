@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/r-utkarsh/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/r-utkarsh/leet/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/r-utkarsh/leet/tree/master/0216-combination-sum-iii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
@@ -35,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/r-utkarsh/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/r-utkarsh/leet/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/r-utkarsh/leet/tree/master/0077-combinations) |
+| [0216-combination-sum-iii](https://github.com/r-utkarsh/leet/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
