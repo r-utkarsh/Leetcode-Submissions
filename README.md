@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/r-utkarsh/leet/tree/master/0216-combination-sum-iii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/r-utkarsh/leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/r-utkarsh/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/r-utkarsh/leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
