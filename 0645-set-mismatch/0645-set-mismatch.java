@@ -10,14 +10,7 @@ class Solution {
         for(int i=1;i<=nums.length;i++){
             if(!hs.contains(i)) mis = i;
         }
-        // System.out.println(mis);
-        // System.out.println(twc);
-        int arr[] = new int[2];
-        arr[0] = twc;
-        arr[1] = mis;
-
-
-        return arr;
         
+        return new int[]{twc, mis};  
     }
 }
