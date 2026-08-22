@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/r-utkarsh/leet/tree/master/0367-valid-perfect-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/r-utkarsh/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/r-utkarsh/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/r-utkarsh/leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/r-utkarsh/leet/tree/master/3925-concatenate-array-with-reverse) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
