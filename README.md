@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/r-utkarsh/leet/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/r-utkarsh/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/r-utkarsh/leet/tree/master/0040-combination-sum-ii) |
+| [0063-unique-paths-ii](https://github.com/r-utkarsh/leet/tree/master/0063-unique-paths-ii) |
 | [0216-combination-sum-iii](https://github.com/r-utkarsh/leet/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/r-utkarsh/leet/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/r-utkarsh/leet/tree/master/0063-unique-paths-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/r-utkarsh/leet/tree/master/2390-removing-stars-from-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/r-utkarsh/leet/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
