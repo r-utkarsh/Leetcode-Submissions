@@ -12,9 +12,6 @@ class Solution {
             x = d /(long)Math.pow(10, (dlen-w));
             y = d % (long)Math.pow(10, (dlen-w));
             sum += power(x,y);
-            System.out.println(w+" "+d+" "+x+" "+y);
-            System.out.println(sum);
-            
         }
         return (int)(sum % mod);
     }
