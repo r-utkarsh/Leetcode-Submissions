@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/r-utkarsh/leet/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/r-utkarsh/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/r-utkarsh/leet/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/r-utkarsh/leet/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/r-utkarsh/leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/r-utkarsh/leet/tree/master/0064-minimum-path-sum) |
 | [0216-combination-sum-iii](https://github.com/r-utkarsh/leet/tree/master/0216-combination-sum-iii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/r-utkarsh/leet/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/r-utkarsh/leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/r-utkarsh/leet/tree/master/0064-minimum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
@@ -167,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/r-utkarsh/leet/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/r-utkarsh/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
