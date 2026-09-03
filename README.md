@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/r-utkarsh/leet/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/r-utkarsh/leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/r-utkarsh/leet/tree/master/0064-minimum-path-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/r-utkarsh/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/r-utkarsh/leet/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/r-utkarsh/leet/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/r-utkarsh/leet/tree/master/0229-majority-element-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/r-utkarsh/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/r-utkarsh/leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/r-utkarsh/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/r-utkarsh/leet/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
