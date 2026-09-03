@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/r-utkarsh/leet/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/r-utkarsh/leet/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/r-utkarsh/leet/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/r-utkarsh/leet/tree/master/0274-h-index) |
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/r-utkarsh/leet/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/r-utkarsh/leet/tree/master/0274-h-index) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
 ## Backtracking
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/r-utkarsh/leet/tree/master/0229-majority-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/r-utkarsh/leet/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
