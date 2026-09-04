@@ -14,9 +14,3 @@ class Solution {
     }
 }
 
-
-// instab = max(between 0 and i) - min(i and n-1)
-
-// stable = instaqb<=k
-
-// find smalles stable index
