@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/r-utkarsh/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/r-utkarsh/leet/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/r-utkarsh/leet/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/r-utkarsh/leet/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/r-utkarsh/leet/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
 | [0343-integer-break](https://github.com/r-utkarsh/leet/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/r-utkarsh/leet/tree/master/0931-minimum-falling-path-sum) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
 | [0343-integer-break](https://github.com/r-utkarsh/leet/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/r-utkarsh/leet/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/r-utkarsh/leet/tree/master/0507-perfect-number) |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/r-utkarsh/leet/tree/master/0274-h-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
