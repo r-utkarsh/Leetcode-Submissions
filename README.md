@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/r-utkarsh/leet/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/r-utkarsh/leet/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/r-utkarsh/leet/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/r-utkarsh/leet/tree/master/0931-minimum-falling-path-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/r-utkarsh/leet/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/r-utkarsh/leet/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/r-utkarsh/leet/tree/master/0507-perfect-number) |
@@ -223,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
