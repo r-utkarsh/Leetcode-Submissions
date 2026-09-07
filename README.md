@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/r-utkarsh/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2574-left-and-right-sum-differences](https://github.com/r-utkarsh/leet/tree/master/2574-left-and-right-sum-differences) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/r-utkarsh/leet/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/r-utkarsh/leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/r-utkarsh/leet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/r-utkarsh/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/r-utkarsh/leet/tree/master/2351-first-letter-to-appear-twice) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/r-utkarsh/leet/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/r-utkarsh/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/r-utkarsh/leet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/r-utkarsh/leet/tree/master/3668-restore-finishing-order) |
@@ -117,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/r-utkarsh/leet/tree/master/1652-defuse-the-bomb) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/r-utkarsh/leet/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/r-utkarsh/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/r-utkarsh/leet/tree/master/2351-first-letter-to-appear-twice) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/r-utkarsh/leet/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/r-utkarsh/leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/r-utkarsh/leet/tree/master/0014-longest-common-prefix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/r-utkarsh/leet/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Queue
 |  |
 | ------- |
