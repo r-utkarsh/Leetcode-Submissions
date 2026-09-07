@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/r-utkarsh/leet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/r-utkarsh/leet/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/r-utkarsh/leet/tree/master/1528-shuffle-string) |
+| [1652-defuse-the-bomb](https://github.com/r-utkarsh/leet/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/r-utkarsh/leet/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/r-utkarsh/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1652-defuse-the-bomb](https://github.com/r-utkarsh/leet/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/r-utkarsh/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
