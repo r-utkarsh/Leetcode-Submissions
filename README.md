@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/r-utkarsh/leet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/r-utkarsh/leet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/r-utkarsh/leet/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/r-utkarsh/leet/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/r-utkarsh/leet/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/r-utkarsh/leet/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/r-utkarsh/leet/tree/master/1929-concatenation-of-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
+| [1512-number-of-good-pairs](https://github.com/r-utkarsh/leet/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/r-utkarsh/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/r-utkarsh/leet/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/r-utkarsh/leet/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/r-utkarsh/leet/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/r-utkarsh/leet/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/r-utkarsh/leet/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/r-utkarsh/leet/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/r-utkarsh/leet/tree/master/0728-self-dividing-numbers) |
+| [1512-number-of-good-pairs](https://github.com/r-utkarsh/leet/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/r-utkarsh/leet/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/r-utkarsh/leet/tree/master/2469-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/r-utkarsh/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
