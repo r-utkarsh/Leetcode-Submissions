@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/r-utkarsh/leet/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/r-utkarsh/leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/r-utkarsh/leet/tree/master/0567-permutation-in-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/r-utkarsh/leet/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/r-utkarsh/leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/r-utkarsh/leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/r-utkarsh/leet/tree/master/0567-permutation-in-string) |
 | [1528-shuffle-string](https://github.com/r-utkarsh/leet/tree/master/1528-shuffle-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/r-utkarsh/leet/tree/master/0187-repeated-dna-sequences) |
+| [0424-longest-repeating-character-replacement](https://github.com/r-utkarsh/leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/r-utkarsh/leet/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/r-utkarsh/leet/tree/master/1004-max-consecutive-ones-iii) |
