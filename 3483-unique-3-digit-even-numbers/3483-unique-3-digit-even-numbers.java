@@ -4,7 +4,6 @@ class Solution {
         for(int i=0;i<d.length;i++){
             arr[d[i]]++;
         }
-        List<Integer> lst = new ArrayList<>();
         int cnt=0;
         for(int i=1; i<=9; i++){
             if(arr[i] == 0) continue;
@@ -16,11 +15,10 @@ class Solution {
 
                 for(int k=0; k<=8; k+=2){
                     if(arr[k] == 0) continue;
-
                     arr[k]--;
-                    
-                    int num = 100*arr[i] + 10*arr[j] + arr[k];
-                    lst.add(num);
+
+                    int num = 100*i + 10*j + k;
+
                     cnt++;
                    arr[k]++;
                 }
@@ -28,7 +26,6 @@ class Solution {
             }
             arr[i]++;
         }
-        System.out.println(lst);
         return cnt;
     }
 }
