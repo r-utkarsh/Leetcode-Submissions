@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/r-utkarsh/leet/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/r-utkarsh/leet/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/r-utkarsh/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/r-utkarsh/leet/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/r-utkarsh/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/r-utkarsh/leet/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/r-utkarsh/leet/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/r-utkarsh/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/r-utkarsh/leet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/r-utkarsh/leet/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/r-utkarsh/leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/r-utkarsh/leet/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/r-utkarsh/leet/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/r-utkarsh/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/r-utkarsh/leet/tree/master/1652-defuse-the-bomb) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/r-utkarsh/leet/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/r-utkarsh/leet/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/r-utkarsh/leet/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/r-utkarsh/leet/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/r-utkarsh/leet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/r-utkarsh/leet/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -277,10 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/r-utkarsh/leet/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/r-utkarsh/leet/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/r-utkarsh/leet/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/r-utkarsh/leet/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
