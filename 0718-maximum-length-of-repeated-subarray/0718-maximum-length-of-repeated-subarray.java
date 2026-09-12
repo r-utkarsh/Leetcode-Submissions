@@ -7,9 +7,9 @@ class Solution {
                 int cnt=0, idx = i;
                 if(nums1[i] == nums2[j]){
 
-                    for(int k=j;k<nums2.length;k++){
+                    for(int k=j;k<nums2.length && idx<nums1.length;k++){
 
-                        if(idx<nums1.length && nums1[idx] == nums2[k]) {
+                        if( nums1[idx] == nums2[k]) {
                             cnt++;
                             idx++;
                         }
