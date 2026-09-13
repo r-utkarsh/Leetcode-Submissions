@@ -5,13 +5,10 @@ class Solution {
         for(var i : nums){
             mp.put(i, mp.getOrDefault(i, 0)+1);
         }
-        ArrayList<Integer> lst = new ArrayList<>();
-        for(var i : mp.keySet()){
-            if(mp.get(i)==3) lst.add(i);
-        }
+        
         for(int i=0;i<nums.length-1;i++){
       
-            if(lst.contains(nums[i])) {
+            if(mp.get(nums[i])==3) {
                 // search for the same element ahead
                 for(int j = i+1;j<nums.length; j++){
                     if(nums[j] == nums[i]){
