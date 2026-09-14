@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/r-utkarsh/leet/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/r-utkarsh/leet/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/r-utkarsh/leet/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/r-utkarsh/leet/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/r-utkarsh/leet/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/r-utkarsh/leet/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/r-utkarsh/leet/tree/master/2469-convert-the-temperature) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/r-utkarsh/leet/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
