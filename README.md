@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/r-utkarsh/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/r-utkarsh/leet/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/r-utkarsh/leet/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/r-utkarsh/leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/r-utkarsh/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/r-utkarsh/leet/tree/master/3838-weighted-word-mapping) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/r-utkarsh/leet/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/r-utkarsh/leet/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/r-utkarsh/leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3701-compute-alternating-sum](https://github.com/r-utkarsh/leet/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/r-utkarsh/leet/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/r-utkarsh/leet/tree/master/3925-concatenate-array-with-reverse) |
 ## Floyd's Cycle Finding Algorithm
