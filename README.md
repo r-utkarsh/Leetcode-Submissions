@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/r-utkarsh/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/r-utkarsh/leet/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/r-utkarsh/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/r-utkarsh/leet/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/r-utkarsh/leet/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/r-utkarsh/leet/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/r-utkarsh/leet/tree/master/3838-weighted-word-mapping) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/r-utkarsh/leet/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2390-removing-stars-from-a-string](https://github.com/r-utkarsh/leet/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/r-utkarsh/leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/r-utkarsh/leet/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/r-utkarsh/leet/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/r-utkarsh/leet/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/r-utkarsh/leet/tree/master/3925-concatenate-array-with-reverse) |
