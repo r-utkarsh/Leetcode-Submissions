@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/r-utkarsh/leet/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/r-utkarsh/leet/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/r-utkarsh/leet/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/r-utkarsh/leet/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/r-utkarsh/leet/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/r-utkarsh/leet/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/r-utkarsh/leet/tree/master/2469-convert-the-temperature) |
