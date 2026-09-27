@@ -4,16 +4,14 @@ class Solution {
         for(var i:candies){
             max = Math.max(i, max);
         }
-        boolean ar[] = new boolean[candies.length];
+        ArrayList<Boolean> list = new ArrayList<>(candies.length);
+
         for(int i=0;i<candies.length;i++){
-            if(candies[i]+extraCandies>=max) ar[i] = true;
-            else ar[i]=false;
+            if(candies[i]+extraCandies>=max) list.add(true);
+            else list.add(false);
 
         }
-        ArrayList<Boolean> list = new ArrayList<>(ar.length);
-        for (var b : ar) {
-            list.add(b); 
-        }
+
         return list;    
     }
 }
