@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/r-utkarsh/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/r-utkarsh/leet/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/r-utkarsh/leet/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/r-utkarsh/leet/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/r-utkarsh/leet/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/r-utkarsh/leet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/r-utkarsh/leet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/r-utkarsh/leet/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/r-utkarsh/leet/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
