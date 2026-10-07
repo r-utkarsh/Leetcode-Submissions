@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/r-utkarsh/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/r-utkarsh/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/r-utkarsh/leet/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/r-utkarsh/leet/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/r-utkarsh/leet/tree/master/2574-left-and-right-sum-differences) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/r-utkarsh/leet/tree/master/1816-truncate-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/r-utkarsh/leet/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/r-utkarsh/leet/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/r-utkarsh/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/r-utkarsh/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/r-utkarsh/leet/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/r-utkarsh/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
