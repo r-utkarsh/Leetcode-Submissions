@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/r-utkarsh/leet/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/r-utkarsh/leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/r-utkarsh/leet/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/r-utkarsh/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/r-utkarsh/leet/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/r-utkarsh/leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/r-utkarsh/leet/tree/master/3903-smallest-stable-index-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/r-utkarsh/leet/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/r-utkarsh/leet/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/r-utkarsh/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/r-utkarsh/leet/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/r-utkarsh/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/r-utkarsh/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/r-utkarsh/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
