@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/r-utkarsh/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/r-utkarsh/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/r-utkarsh/leet/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/r-utkarsh/leet/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/r-utkarsh/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/r-utkarsh/leet/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/r-utkarsh/leet/tree/master/3498-reverse-degree-of-a-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/r-utkarsh/leet/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/r-utkarsh/leet/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/r-utkarsh/leet/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/r-utkarsh/leet/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/r-utkarsh/leet/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/r-utkarsh/leet/tree/master/2469-convert-the-temperature) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/r-utkarsh/leet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
