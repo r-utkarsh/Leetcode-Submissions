@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/r-utkarsh/leet/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/r-utkarsh/leet/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/r-utkarsh/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/r-utkarsh/leet/tree/master/1254-number-of-closed-islands) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/r-utkarsh/leet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/r-utkarsh/leet/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/r-utkarsh/leet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/r-utkarsh/leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/r-utkarsh/leet/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/r-utkarsh/leet/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/r-utkarsh/leet/tree/master/1254-number-of-closed-islands) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/r-utkarsh/leet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/r-utkarsh/leet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/r-utkarsh/leet/tree/master/1672-richest-customer-wealth) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
+| [1254-number-of-closed-islands](https://github.com/r-utkarsh/leet/tree/master/1254-number-of-closed-islands) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -430,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/r-utkarsh/leet/tree/master/3898-find-the-degree-of-each-vertex) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/r-utkarsh/leet/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/r-utkarsh/leet/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
