@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/r-utkarsh/leet/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/r-utkarsh/leet/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/r-utkarsh/leet/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/r-utkarsh/leet/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/r-utkarsh/leet/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/r-utkarsh/leet/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/r-utkarsh/leet/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -458,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/r-utkarsh/leet/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/r-utkarsh/leet/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
