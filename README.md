@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/r-utkarsh/leet/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/r-utkarsh/leet/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/r-utkarsh/leet/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/r-utkarsh/leet/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/r-utkarsh/leet/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/r-utkarsh/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/r-utkarsh/leet/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/r-utkarsh/leet/tree/master/3945-digit-frequency-score) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/r-utkarsh/leet/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/r-utkarsh/leet/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Counting
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/r-utkarsh/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/r-utkarsh/leet/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/r-utkarsh/leet/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/r-utkarsh/leet/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Two Pointers
 |  |
 | ------- |
