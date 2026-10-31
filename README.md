@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/r-utkarsh/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/r-utkarsh/leet/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/r-utkarsh/leet/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/r-utkarsh/leet/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/r-utkarsh/leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/r-utkarsh/leet/tree/master/3945-digit-frequency-score) |
 ## Simulation
