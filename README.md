@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/r-utkarsh/leet/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/r-utkarsh/leet/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/r-utkarsh/leet/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/r-utkarsh/leet/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/r-utkarsh/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/r-utkarsh/leet/tree/master/1512-number-of-good-pairs) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/r-utkarsh/leet/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/r-utkarsh/leet/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/r-utkarsh/leet/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/r-utkarsh/leet/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/r-utkarsh/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/r-utkarsh/leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/r-utkarsh/leet/tree/master/1528-shuffle-string) |
