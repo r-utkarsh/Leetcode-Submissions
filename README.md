@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/r-utkarsh/leet/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/r-utkarsh/leet/tree/master/0367-valid-perfect-square) |
+| [0372-super-pow](https://github.com/r-utkarsh/leet/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/r-utkarsh/leet/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/r-utkarsh/leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/r-utkarsh/leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/r-utkarsh/leet/tree/master/0372-super-pow) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/r-utkarsh/leet/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
@@ -480,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/r-utkarsh/leet/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/r-utkarsh/leet/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/r-utkarsh/leet/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
