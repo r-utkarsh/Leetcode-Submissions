@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/r-utkarsh/leet/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/r-utkarsh/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/r-utkarsh/leet/tree/master/1254-number-of-closed-islands) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/r-utkarsh/leet/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/r-utkarsh/leet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/r-utkarsh/leet/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/r-utkarsh/leet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/r-utkarsh/leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/r-utkarsh/leet/tree/master/0645-set-mismatch) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/r-utkarsh/leet/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/r-utkarsh/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/r-utkarsh/leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/r-utkarsh/leet/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/r-utkarsh/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/r-utkarsh/leet/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/r-utkarsh/leet/tree/master/0931-minimum-falling-path-sum) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/r-utkarsh/leet/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/r-utkarsh/leet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/r-utkarsh/leet/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Knapsack Problem
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/r-utkarsh/leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/r-utkarsh/leet/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/r-utkarsh/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/r-utkarsh/leet/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/r-utkarsh/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r-utkarsh/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Boyer–Moore Majority Vote Algorithm
