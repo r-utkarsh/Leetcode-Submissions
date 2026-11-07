@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/r-utkarsh/leet/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/r-utkarsh/leet/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/r-utkarsh/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/r-utkarsh/leet/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/r-utkarsh/leet/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/r-utkarsh/leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/r-utkarsh/leet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/r-utkarsh/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/r-utkarsh/leet/tree/master/0020-valid-parentheses) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/r-utkarsh/leet/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/r-utkarsh/leet/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
