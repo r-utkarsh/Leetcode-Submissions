@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/r-utkarsh/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/r-utkarsh/leet/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2402-meeting-rooms-iii](https://github.com/r-utkarsh/leet/tree/master/2402-meeting-rooms-iii) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/r-utkarsh/leet/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/r-utkarsh/leet/tree/master/2574-left-and-right-sum-differences) |
 | [2747-count-zero-request-servers](https://github.com/r-utkarsh/leet/tree/master/2747-count-zero-request-servers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/r-utkarsh/leet/tree/master/2351-first-letter-to-appear-twice) |
+| [2402-meeting-rooms-iii](https://github.com/r-utkarsh/leet/tree/master/2402-meeting-rooms-iii) |
 | [2747-count-zero-request-servers](https://github.com/r-utkarsh/leet/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/r-utkarsh/leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/r-utkarsh/leet/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/r-utkarsh/leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/r-utkarsh/leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
+| [2402-meeting-rooms-iii](https://github.com/r-utkarsh/leet/tree/master/2402-meeting-rooms-iii) |
 | [2747-count-zero-request-servers](https://github.com/r-utkarsh/leet/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/r-utkarsh/leet/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/r-utkarsh/leet/tree/master/3467-transform-array-by-parity) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/r-utkarsh/leet/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/r-utkarsh/leet/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2390-removing-stars-from-a-string](https://github.com/r-utkarsh/leet/tree/master/2390-removing-stars-from-a-string) |
+| [2402-meeting-rooms-iii](https://github.com/r-utkarsh/leet/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/r-utkarsh/leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/r-utkarsh/leet/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/r-utkarsh/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/r-utkarsh/leet/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2402-meeting-rooms-iii](https://github.com/r-utkarsh/leet/tree/master/2402-meeting-rooms-iii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/r-utkarsh/leet/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Breadth-First Search
 |  |
