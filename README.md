@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/r-utkarsh/leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/r-utkarsh/leet/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/r-utkarsh/leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/r-utkarsh/leet/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/r-utkarsh/leet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/r-utkarsh/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/r-utkarsh/leet/tree/master/3467-transform-array-by-parity) |
