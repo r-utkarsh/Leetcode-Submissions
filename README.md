@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/r-utkarsh/leet/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/r-utkarsh/leet/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/r-utkarsh/leet/tree/master/0187-repeated-dna-sequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/r-utkarsh/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/r-utkarsh/leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/r-utkarsh/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/r-utkarsh/leet/tree/master/0415-add-strings) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/r-utkarsh/leet/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/r-utkarsh/leet/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/r-utkarsh/leet/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/r-utkarsh/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/r-utkarsh/leet/tree/master/0343-integer-break) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/r-utkarsh/leet/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/r-utkarsh/leet/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/r-utkarsh/leet/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/r-utkarsh/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/r-utkarsh/leet/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/r-utkarsh/leet/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/r-utkarsh/leet/tree/master/0343-integer-break) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/r-utkarsh/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/r-utkarsh/leet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/r-utkarsh/leet/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/r-utkarsh/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/r-utkarsh/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Indexed Tree
 |  |
@@ -535,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/r-utkarsh/leet/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/r-utkarsh/leet/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
