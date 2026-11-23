@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/r-utkarsh/leet/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/r-utkarsh/leet/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/r-utkarsh/leet/tree/master/1816-truncate-sentence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/r-utkarsh/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/r-utkarsh/leet/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/r-utkarsh/leet/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/r-utkarsh/leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/r-utkarsh/leet/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/r-utkarsh/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/r-utkarsh/leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/r-utkarsh/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/r-utkarsh/leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2402-meeting-rooms-iii](https://github.com/r-utkarsh/leet/tree/master/2402-meeting-rooms-iii) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/r-utkarsh/leet/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/r-utkarsh/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/r-utkarsh/leet/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/r-utkarsh/leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/r-utkarsh/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/r-utkarsh/leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r-utkarsh/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
