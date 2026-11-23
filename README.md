@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/r-utkarsh/leet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/r-utkarsh/leet/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/r-utkarsh/leet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/r-utkarsh/leet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/r-utkarsh/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/r-utkarsh/leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/r-utkarsh/leet/tree/master/1389-create-target-array-in-the-given-order) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/r-utkarsh/leet/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/r-utkarsh/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/r-utkarsh/leet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/r-utkarsh/leet/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/r-utkarsh/leet/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/r-utkarsh/leet/tree/master/2574-left-and-right-sum-differences) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/r-utkarsh/leet/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/r-utkarsh/leet/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/r-utkarsh/leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/r-utkarsh/leet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/r-utkarsh/leet/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/r-utkarsh/leet/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/r-utkarsh/leet/tree/master/1688-count-of-matches-in-tournament) |
@@ -564,4 +567,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/r-utkarsh/leet/tree/master/0241-different-ways-to-add-parentheses) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/r-utkarsh/leet/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/r-utkarsh/leet/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
