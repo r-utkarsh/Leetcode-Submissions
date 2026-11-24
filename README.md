@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/r-utkarsh/leet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/r-utkarsh/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/r-utkarsh/leet/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-utkarsh/leet/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3467-transform-array-by-parity](https://github.com/r-utkarsh/leet/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/r-utkarsh/leet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/3483-unique-3-digit-even-numbers) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/r-utkarsh/leet/tree/master/2747-count-zero-request-servers) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/r-utkarsh/leet/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/r-utkarsh/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-utkarsh/leet/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/r-utkarsh/leet/tree/master/2469-convert-the-temperature) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/r-utkarsh/leet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/r-utkarsh/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-utkarsh/leet/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/r-utkarsh/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/r-utkarsh/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/r-utkarsh/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/r-utkarsh/leet/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-utkarsh/leet/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/r-utkarsh/leet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/r-utkarsh/leet/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-utkarsh/leet/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/r-utkarsh/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
