@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/r-utkarsh/leet/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/r-utkarsh/leet/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/r-utkarsh/leet/tree/master/3925-concatenate-array-with-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/r-utkarsh/leet/tree/master/3934-smallest-unique-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/r-utkarsh/leet/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/r-utkarsh/leet/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/r-utkarsh/leet/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/r-utkarsh/leet/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/r-utkarsh/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/r-utkarsh/leet/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3934-smallest-unique-subarray](https://github.com/r-utkarsh/leet/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/r-utkarsh/leet/tree/master/3945-digit-frequency-score) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/r-utkarsh/leet/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/r-utkarsh/leet/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/r-utkarsh/leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/r-utkarsh/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/r-utkarsh/leet/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/r-utkarsh/leet/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -474,11 +477,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/r-utkarsh/leet/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/r-utkarsh/leet/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/r-utkarsh/leet/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/r-utkarsh/leet/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/r-utkarsh/leet/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/r-utkarsh/leet/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -591,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/r-utkarsh/leet/tree/master/1352-product-of-the-last-k-numbers) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/r-utkarsh/leet/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
