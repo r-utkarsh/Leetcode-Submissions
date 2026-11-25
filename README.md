@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/r-utkarsh/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/r-utkarsh/leet/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/r-utkarsh/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/r-utkarsh/leet/tree/master/0040-combination-sum-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/r-utkarsh/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/r-utkarsh/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/r-utkarsh/leet/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/r-utkarsh/leet/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/r-utkarsh/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0372-super-pow](https://github.com/r-utkarsh/leet/tree/master/0372-super-pow) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/r-utkarsh/leet/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
